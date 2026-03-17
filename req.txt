@@ -1,5 +1,7 @@
 plotly
 numpy
 pandas
-matplotlib.pyplot
+matplotlib
 spiceypy
+pymcel
+rebound
